@@ -9,6 +9,7 @@ namespace Modul4
             // 3-vi. Terdapat bagian dari method utama / main yang memanggil class dan method yang dibuat sebelumnya[max 5 pts]
             Console.WriteLine(KodeBuah.getKodeBuah(KodeBuah.Buah.Apel));
             Console.WriteLine(KodeBuah.getKodeBuah(KodeBuah.Buah.Semangka));
+            Console.WriteLine("perubahan");
 
             // 5-viii. Terdapat method utama/main yang memanggil dan mencoba semua state [max 5 pts]
             // tidak harus semua state dicoba, yang penting output yang diminta di soal dicoba
